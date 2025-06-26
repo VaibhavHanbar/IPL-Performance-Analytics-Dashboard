@@ -1,6 +1,3 @@
-# IPL-Performance-Analytics-Dashboard
-Interactive Power BI dashboard for IPL performance analysis (2008–2024) to support decision-making for team owners and live commentary insights.
-
 # IPL Performance Analytics Dashboard (2008–2024)
 
 This project presents an interactive Power BI dashboard that analyzes player and team performance across all Indian Premier League (IPL) seasons from 2008 to 2024. Designed to empower team owners and commentators, the dashboard enables data-driven decision-making during auctions, match planning, and live commentary.
